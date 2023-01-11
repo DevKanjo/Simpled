@@ -1,0 +1,40 @@
+.d1{
+    background-color: rgba(13, 13, 163, 0.753);
+    height: 100%;
+    flex: 1;
+    padding-top: 5%;
+    padding-inline: 10%;
+}
+.d2{
+    display: inline;
+    width: 100%;
+}
+.d4{
+    color: white;
+    padding-block: 10%;
+}
+.d5{
+    justify-content: space-between;
+}
+.text1{
+    color: white;
+    font-weight: bold;
+}
+.text2{
+    font-weight: bold;
+    font-size: 30px;
+}
+.list1{
+    float: right;
+    margin-top: -4%;
+    display: inline-flex;
+    list-style: none;
+    width: 30%;
+    color: white;
+}
+.box1{
+  padding: 25%;
+  font-weight: 700;
+  font-size: larger;
+  margin-bottom: 5px;
+}
